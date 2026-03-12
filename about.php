@@ -33,7 +33,6 @@
 
 			<td>
 	             <h1>許允蓁</h1>
-	             <h2>Yun-Chen Hsu</h2>
 	             <h2 id="h2text">Yun-Chen Hsu</h2>
 	        </td>
 		</tr>
